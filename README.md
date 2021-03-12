@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cihatyalman
-- 👀 I’m interested in app development
+- 👀 I’m interested in app & game development
 - 🌱 I’m currently learning Flutter
 - 📫 You can reach me at "bmcihatyalman@gmail.com"
 
