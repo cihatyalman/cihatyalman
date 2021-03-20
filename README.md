@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter
 - 🔭 I’m currently working on Flutter Web
 - 📫 You can reach me at "bmcihatyalman@gmail.com"
-- 🔗 My app store: [CIYABOX](https://play.google.com/store/apps/dev?id=6128508124214547444)
+- 🔗 You can reach my apps [CIYABOX](https://play.google.com/store/apps/dev?id=6128508124214547444)
 
 <!--
 - 👋 Hi, I’m @cihatyalman
