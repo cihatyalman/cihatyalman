@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cihatyalman
 - 👀 I’m interested in app & game development
 - 🌱 I’m currently learning [Flutter](https://github.com/cihatyalman/flutter_core)
-- 🔭 I’m currently working on [Flutter Web](https://cihatyalman.github.io/website)
+- 🔭 I’m currently working on [Flutter](https://cihatyalman.github.io/website)
 - 📫 You can reach me at "bmcihatyalman@gmail.com"
 - 🔗 You can reach my apps at "[CIYABOX](https://play.google.com/store/apps/dev?id=6128508124214547444)"
 
