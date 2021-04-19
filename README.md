@@ -3,11 +3,11 @@ I'm Cihat! I am an application and game developer. I have 2 years of application
 
 Contact with me via these platforms!
 
-<a href="https://cihatyalman.github.io/website" target="_blank" rel="nofollow"><img alt="Cihat's Apps" src="https://img.shields.io/badge/My_WebSite-white?style=for-the-badge&logo=website&logoColor=white" /></a>
+<a href="https://cihatyalman.github.io/website" target="_blank" rel="nofollow"><img alt="Cihat's Website" src="https://img.shields.io/badge/My_WebSite-white?style=for-the-badge&logo=website&logoColor=white" /></a>
 <a href="https://play.google.com/store/apps/dev?id=6128508124214547444" target="_blank" rel="nofollow"><img alt="Cihat's Apps" src="https://img.shields.io/badge/ciyabox-red?style=for-the-badge&logo=app&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/cihatyalman" target="_blank" rel="nofollow"><img alt="Cihat's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:bmcihatyalman@gmail.com" target="_blank" rel="nofollow"><img alt="Cihat's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.instagram.com/cihatyalman" target="_blank" rel="nofollow"><img alt="Cihat's Mail Address" src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.instagram.com/cihatyalman" target="_blank" rel="nofollow"><img alt="Cihat's Instagram" src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 
 ## 🛠 Technologies & Tools 
@@ -21,7 +21,6 @@ Contact with me via these platforms!
 
 
 ## 📊 Featured Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=cihatyalman&repo=flutter_core&show_icons=true&theme=tokyonight)](https://github.com/cihatyalman/flutter_core)
 <a href="https://github.com/cihatyalman/flutter_core">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=cihatyalman&repo=flutter_core&show_icons=true&theme=tokyonight"></img>
 </a><a href="https://github.com/cihatyalman/python_core">
