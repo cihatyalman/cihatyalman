@@ -16,6 +16,10 @@ Contact with me via these platforms!
 <img src="https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android&logoColor=white"></img>
 
+
+## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=cihatyalman&count_private=true&show_icons=true&theme=tokyonight">
+
 <!--
 - 👋 Hi, I’m @cihatyalman
 - 👀 I’m interested in app & game development
