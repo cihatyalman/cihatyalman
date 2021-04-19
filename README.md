@@ -1,5 +1,5 @@
 # Hi 👋
-I'm Cihat! I am an application and game developer. I have 2 years of application and game experience. 
+I'm Cihat! I am an application and game developer. I have 2 years of application and game development experience. 
 <!--You can view my personal website with "MY WEBSITE". You can view my applications with "CIYABOX".-->
 
 Contact with me via these platforms!
