@@ -17,7 +17,7 @@ Contact with me via these platforms!
 <img src="https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android&logoColor=white"></img>
 
 
-## 📊 GitHub Stats
+## 📊 Featured Projects
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=cihatyalman&count_private=true&show_icons=true&theme=tokyonight">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihatyalman&hide=JavaScript,Java,ruby&layout=compact&show_icons=true&theme=tokyonight">
