@@ -1,6 +1,5 @@
 # Hi 👋
 I'm Cihat! I am an application and game developer. I have 2 years of application and game development experience. 
-<!--You can view my personal website with "MY WEBSITE". You can view my applications with "CIYABOX".-->
 
 Contact with me via these platforms!
 
@@ -22,10 +21,7 @@ Contact with me via these platforms!
 
 
 ## 📊 Featured Projects
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=cihatyalman&count_private=true&show_icons=true&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihatyalman&hide=JavaScript,Java,ruby&layout=compact&show_icons=true&theme=tokyonight">
--->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=cihatyalman&repo=flutter_core&show_icons=true&theme=tokyonight)](https://github.com/cihatyalman/flutter_core)
 <a href="https://github.com/cihatyalman/flutter_core">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=cihatyalman&repo=flutter_core&show_icons=true&theme=tokyonight"></img>
 </a><a href="https://github.com/cihatyalman/python_core">
@@ -39,4 +35,8 @@ Contact with me via these platforms!
 - 🔭 I’m currently working on [Flutter](https://github.com/cihatyalman/flutter_core)
 - 📫 You can reach me at "bmcihatyalman@gmail.com"
 - 🔗 You can reach my apps at "[CIYABOX](https://play.google.com/store/apps/dev?id=6128508124214547444)"
+-->
+<!--
+<img src="https://github-readme-stats.vercel.app/api?username=cihatyalman&count_private=true&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihatyalman&hide=JavaScript,Java,ruby&layout=compact&show_icons=true&theme=tokyonight">
 -->
