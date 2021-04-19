@@ -9,6 +9,12 @@ Contact with me via these platforms!
 
 ## 🛠 Technologies & Tools 
 <img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Unity-grey?style=for-the-badge&logo=unity&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"></img>
+<img src="https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android&logoColor=white"></img>
 
 <!--
 - 👋 Hi, I’m @cihatyalman
