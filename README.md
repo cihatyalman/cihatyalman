@@ -27,16 +27,3 @@ Contact with me via these platforms!
 </a><a href="https://github.com/cihatyalman/python_core">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=cihatyalman&repo=python_core&show_icons=true&theme=tokyonight"></img>
 </a>
-
-<!--
-- 👋 Hi, I’m @cihatyalman
-- 👀 I’m interested in app & game development
-- 🌱 I’m currently learning [Flutter](https://github.com/cihatyalman/flutter_core)
-- 🔭 I’m currently working on [Flutter](https://github.com/cihatyalman/flutter_core)
-- 📫 You can reach me at "bmcihatyalman@gmail.com"
-- 🔗 You can reach my apps at "[CIYABOX](https://play.google.com/store/apps/dev?id=6128508124214547444)"
--->
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=cihatyalman&count_private=true&show_icons=true&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihatyalman&hide=JavaScript,Java,ruby&layout=compact&show_icons=true&theme=tokyonight">
--->
