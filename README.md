@@ -27,3 +27,4 @@ Contact with me via these platforms!
 </a><a href="https://github.com/cihatyalman/python_core">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=cihatyalman&repo=python_core&show_icons=true&theme=tokyonight"></img>
 </a>
+ 
