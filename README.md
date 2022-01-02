@@ -24,6 +24,8 @@ Contact with me via these platforms!
 ## 📊 Featured Projects
 <a href="https://github.com/cihatyalman/flutter_core">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=cihatyalman&repo=flutter_core&show_icons=true&theme=tokyonight"></img>
+<a href="https://github.com/cihatyalman/flutter_architecture">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=cihatyalman&repo=flutter_architecture&show_icons=true&theme=tokyonight"></img>
 </a><a href="https://github.com/cihatyalman/python_core">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=cihatyalman&repo=python_core&show_icons=true&theme=tokyonight"></img>
 </a>
