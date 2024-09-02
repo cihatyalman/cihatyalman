@@ -1,5 +1,5 @@
 # Hi 👋
-I'm Cihat! I am an application and game developer. I have 5 years of application and game development experience. 
+I'm Cihat. I'm a software developer with extensive experience in app and game development. I started programming with Python, then developed mobile games with Unity and then specialized in mobile application development with Flutter. With my competence in mobile application and game development, I gained valuable experience by taking part in various projects. With my interest in new technologies and my ability to adapt quickly, I continue to produce innovative solutions.
 
 <a href="https://cihatyalman.github.io" target="_blank" rel="nofollow"><img alt="Portfolyo" src="https://img.shields.io/badge/Portfolyo-grey?style=for-the-badge&logo=website&logoColor=white" /></a>
 <a href="https://www.kutusoft.com" target="_blank" rel="nofollow"><img alt="My Apps" src="https://img.shields.io/badge/My_Apps-red?style=for-the-badge&logo=app&logoColor=white" /></a>
