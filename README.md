@@ -1,8 +1,8 @@
 # Hi 👋
 I'm Cihat! I am an application and game developer. I have 5 years of application and game development experience. 
 
-<!--<a href="https://cihatyalman.github.io/website" target="_blank" rel="nofollow"><img alt="Cihat's Website" src="https://img.shields.io/badge/My_WebSite-grey?style=for-the-badge&logo=website&logoColor=white" /></a>-->
-<a href="https://www.kutusoft.com/" target="_blank" rel="nofollow"><img alt="Cihat's Apps" src="https://img.shields.io/badge/My_Apps-red?style=for-the-badge&logo=app&logoColor=white" /></a>
+<a href="https://cihatyalman.github.io" target="_blank" rel="nofollow"><img alt="Portfolyo" src="https://img.shields.io/badge/Portfolyo-grey?style=for-the-badge&logo=website&logoColor=white" /></a>
+<a href="https://www.kutusoft.com" target="_blank" rel="nofollow"><img alt="My Apps" src="https://img.shields.io/badge/My_Apps-red?style=for-the-badge&logo=app&logoColor=white" /></a>
 
 Contact with me via these platforms!
 
