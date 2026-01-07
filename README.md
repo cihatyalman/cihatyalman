@@ -12,14 +12,14 @@ Contact with me via these platforms!
 
 
 ## 🛠 Technologies & Tools 
-<img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Flutter-075D9D?style=for-the-badge&logo=flutter&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Python-3E72A0?style=for-the-badge&logo=python&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Unity-grey?style=for-the-badge&logo=unity&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white"></img>
-<img src="https://img.shields.io/badge/AWS-blue?style=for-the-badge"></img>
-<img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Ubuntu%20Server-orange?style=for-the-badge&logo=ubuntu&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Firebase-FF9505?style=for-the-badge&logo=firebase&logoColor=white"></img>
+<img src="https://img.shields.io/badge/AWS-FF9D05?style=for-the-badge"></img>
+<img src="https://img.shields.io/badge/MongoDB-1D9655?style=for-the-badge&logo=mongodb&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Ubuntu%20Server-DF4D1D?style=for-the-badge&logo=ubuntu&logoColor=white"></img>
 
 <!--
 ## 📊 Featured Projects
