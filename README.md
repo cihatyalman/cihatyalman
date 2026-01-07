@@ -20,7 +20,7 @@ Contact with me via these platforms!
 <img src="https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android&logoColor=white"></img>
 
-
+<!--
 ## 📊 Featured Projects
 <a href="https://github.com/cihatyalman/flutter_core">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=cihatyalman&repo=flutter_core&show_icons=true&theme=tokyonight"></img>
@@ -29,4 +29,4 @@ Contact with me via these platforms!
 </a><a href="https://github.com/cihatyalman/python_core">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=cihatyalman&repo=python_core&show_icons=true&theme=tokyonight"></img>
 </a>
- 
+ -->
